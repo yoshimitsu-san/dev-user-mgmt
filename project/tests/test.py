@@ -1,4 +1,5 @@
 
+# unittest uses camelCase, hence the mixed snake_- and camelCase
 import unittest
 
 from project import app
